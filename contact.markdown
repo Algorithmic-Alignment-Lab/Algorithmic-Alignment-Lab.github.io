@@ -7,7 +7,7 @@ permalink: /contact/
 
 ## Contact
 
-Find us at the [Stata Center](https://www.csail.mit.edu/about/stata-center) (32 Vassar St, Cambridge, MA 02139) in workspace 32-33X. 
+We are located in the [Stata Center](https://www.csail.mit.edu/about/stata-center) (32 Vassar St, Cambridge, MA 02139). 
 
 For individuals' contact, see the team page. 
 
