@@ -9,6 +9,10 @@ permalink: /research/
 
 Find us on [Github](https://github.com/Algorithmic-Alignment-Lab).
 
+### 2023
+
+Casper, S.*, Li, Y.*, Li, J.*, Bu, T.*, Zhang, K.*, Hadfield-Menell, D., (2022). [Benchmarking Interpretability Tools for Deep Neural Networks.](https://arxiv.org/abs/2302.10894) arXiv preprint arXiv:2302.10894
+
 ### 2022
 
 Casper, S., Hariharan, K., Hadfield-Menell, D., (2022). [Diagnostics for Deep Neural Networks with Automated Copy/Paste Attacks.](https://arxiv.org/abs/2211.10024) arXiv preprint. \*\*\* *[Best paper award](https://neurips2022.mlsafety.org/) — 2022 NeurIPS Machine Learning Safety Workshop* \*\*\*
