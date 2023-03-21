@@ -10,7 +10,6 @@ permalink: /team/
 {% include team.html %}
 
 
-  
 
 
 

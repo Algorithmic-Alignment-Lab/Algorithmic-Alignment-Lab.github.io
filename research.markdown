@@ -11,7 +11,9 @@ Find us on [Github](https://github.com/Algorithmic-Alignment-Lab).
 
 ### 2023
 
-Casper, S.*, Li, Y.*, Li, J.*, Bu, T.*, Zhang, K.*, Hadfield-Menell, D., (2022). [Benchmarking Interpretability Tools for Deep Neural Networks.](https://arxiv.org/abs/2302.10894) arXiv preprint arXiv:2302.10894
+Casper, S., Li, Y., Li, J., Bu, T., Zhang, K., Hadfield-Menell, D., (2023). [Benchmarking Interpretability Tools for Deep Neural Networks.](https://arxiv.org/abs/2302.10894) arXiv preprint arXiv:2302.10894
+
+Haupt, A., Hadfield-Menell, D., & Podimata, C. (2023). [Recommending to Strategic Users.](https://arxiv.org/abs/2302.06559) arXiv preprint arXiv:2302.06559.
 
 ### 2022
 
