@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fdf1984-518c-47b6-9008-8065eef063f7" name="Changes" comment="misc">
-      <change afterPath="$PROJECT_DIR$/_includes/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/team.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/notes.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/research/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/research/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/team/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/team/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/research.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +70,13 @@
       <workItem from="1679451213682" duration="171000" />
       <workItem from="1680142551761" duration="627000" />
       <workItem from="1680143183875" duration="41000" />
+      <workItem from="1680143231355" duration="21000" />
+      <workItem from="1680196909197" duration="14000" />
+      <workItem from="1683066208661" duration="600000" />
+      <workItem from="1683233415735" duration="127000" />
+      <workItem from="1684843185728" duration="112000" />
+      <workItem from="1684854473271" duration="31000" />
+      <workItem from="1686103079253" duration="432000" />
     </task>
     <task id="LOCAL-00001" summary="misc">
       <created>1679375735742</created>
@@ -92,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679428588338</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="misc">
+      <created>1680143246400</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680143246400</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
