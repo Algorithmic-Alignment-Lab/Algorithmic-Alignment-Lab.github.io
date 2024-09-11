@@ -11,7 +11,7 @@ categories: jekyll update
 
 ## ...plus more challenges on the way 
 
-Stephen Casper, <scasper@mit.edu>
+Stephen Casper, <scasper@mit.edu>
 
 Spoilers ahead
 

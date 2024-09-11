@@ -5,25 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fdf1984-518c-47b6-9008-8065eef063f7" name="Changes" comment="misc">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-06-08-mechanistic_interpretability_challenges.markdown" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2023-07-08-seven_strategies.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2022-02-19-welcome-to-jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2022-02-19-welcome-to-jekyll.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/CNAME" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-06-08-mechanistic_interpretability_challenges.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-06-08-mechanistic_interpretability_challenges.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/contact/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/assets/cas.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/assets/cas.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2022/02/19/welcome-to-jekyll.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/jekyll/update/2022/02/19/welcome-to-jekyll.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2022/02/19/welcome-to-jekyll.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/research/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/research/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/team/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/team/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/blog.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/contact.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/assets/cas.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/cas.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/research.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/research.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,31 +40,45 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2M9TZEoM72SksEmORORoLc2efZf" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/scasper/projects/Algorithmic-Alignment-Lab.github.io/_posts",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/scasper/projects/Algorithmic-Alignment-Lab.github.io/_posts&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_posts" />
       <recent name="$PROJECT_DIR$/_includes" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/assets/group_photos" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -92,7 +110,77 @@
       <workItem from="1684854473271" duration="31000" />
       <workItem from="1686103079253" duration="2514000" />
       <workItem from="1686106141285" duration="86000" />
-      <workItem from="1686255895965" duration="846000" />
+      <workItem from="1686255895965" duration="1175000" />
+      <workItem from="1686281275547" duration="77000" />
+      <workItem from="1686689272369" duration="336000" />
+      <workItem from="1687464415940" duration="274000" />
+      <workItem from="1687464781678" duration="25000" />
+      <workItem from="1687982388349" duration="914000" />
+      <workItem from="1688000192619" duration="33000" />
+      <workItem from="1688065996567" duration="45000" />
+      <workItem from="1688092477490" duration="5000" />
+      <workItem from="1688842653451" duration="716000" />
+      <workItem from="1688850029721" duration="35000" />
+      <workItem from="1689787564385" duration="369000" />
+      <workItem from="1689817578036" duration="152000" />
+      <workItem from="1689883686429" duration="7000" />
+      <workItem from="1690317951917" duration="111000" />
+      <workItem from="1690318431792" duration="83000" />
+      <workItem from="1690819768991" duration="677000" />
+      <workItem from="1690823838979" duration="23000" />
+      <workItem from="1690840748449" duration="1165000" />
+      <workItem from="1690919162392" duration="177000" />
+      <workItem from="1690919755742" duration="3000" />
+      <workItem from="1693193001566" duration="315000" />
+      <workItem from="1693240175098" duration="401000" />
+      <workItem from="1694387520927" duration="385000" />
+      <workItem from="1694447934526" duration="430000" />
+      <workItem from="1694448529380" duration="371000" />
+      <workItem from="1694631441518" duration="1371000" />
+      <workItem from="1694646662688" duration="141000" />
+      <workItem from="1695241258368" duration="346000" />
+      <workItem from="1695248315825" duration="121000" />
+      <workItem from="1695314925523" duration="367000" />
+      <workItem from="1695397334363" duration="842000" />
+      <workItem from="1695398468820" duration="5000" />
+      <workItem from="1695504500413" duration="312000" />
+      <workItem from="1695579530907" duration="34000" />
+      <workItem from="1699855071132" duration="356000" />
+      <workItem from="1699894180700" duration="152000" />
+      <workItem from="1702065536839" duration="124000" />
+      <workItem from="1702067508003" duration="22000" />
+      <workItem from="1702575058149" duration="715000" />
+      <workItem from="1702951640137" duration="46000" />
+      <workItem from="1703870667972" duration="262000" />
+      <workItem from="1706557884760" duration="996000" />
+      <workItem from="1706577593956" duration="26000" />
+      <workItem from="1708741147409" duration="191000" />
+      <workItem from="1708741491120" duration="45000" />
+      <workItem from="1708741541829" duration="17000" />
+      <workItem from="1709006955988" duration="225000" />
+      <workItem from="1709007465309" duration="7000" />
+      <workItem from="1709702190190" duration="93000" />
+      <workItem from="1710121859331" duration="199000" />
+      <workItem from="1710463540976" duration="4000" />
+      <workItem from="1710789536915" duration="201000" />
+      <workItem from="1711391267445" duration="1230000" />
+      <workItem from="1711578179103" duration="26000" />
+      <workItem from="1712092309910" duration="42000" />
+      <workItem from="1712501380983" duration="171000" />
+      <workItem from="1712697612467" duration="2000" />
+      <workItem from="1713050810985" duration="23000" />
+      <workItem from="1714281786120" duration="304000" />
+      <workItem from="1714331441431" duration="770000" />
+      <workItem from="1714664370020" duration="42000" />
+      <workItem from="1716992228185" duration="376000" />
+      <workItem from="1718227635831" duration="30000" />
+      <workItem from="1719938557808" duration="4228000" />
+      <workItem from="1719945659671" duration="502000" />
+      <workItem from="1719946395654" duration="4000" />
+      <workItem from="1720236481969" duration="984000" />
+      <workItem from="1720545867742" duration="448000" />
+      <workItem from="1721984658341" duration="462000" />
+      <workItem from="1722290537274" duration="362000" />
     </task>
     <task id="LOCAL-00001" summary="misc">
       <created>1679375735742</created>
@@ -129,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686103692522</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="misc">
+      <created>1686257045169</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686257045169</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

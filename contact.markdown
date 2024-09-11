@@ -7,7 +7,7 @@ permalink: /contact/
 
 ## Contact
 
-We are located in the [Stata Center](https://www.csail.mit.edu/about/stata-center) (32 Vassar St, Cambridge, MA 02139). 
+We are located in the [Schwarzman Center](https://computing.mit.edu/welcome-to-building-45/) (51 Vassar St, Cambridge, MA 02139). 
 
 For individuals' contact, see the team page. 
 

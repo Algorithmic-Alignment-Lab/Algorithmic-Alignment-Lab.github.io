@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://thestephencasper.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thestephencasper.github.io/" rel="alternate" type="text/html" /><updated>2023-06-08T16:39:18-04:00</updated><id>https://thestephencasper.github.io/feed.xml</id><title type="html">Algorithmic Alignment Group</title><subtitle>Researching frameworks for human-aligned AI @ MIT CSAIL.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://thestephencasper.github.io/jekyll/update/2022/02/19/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-02-19T23:49:21-05:00</published><updated>2022-02-19T23:49:21-05:00</updated><id>https://thestephencasper.github.io/jekyll/update/2022/02/19/welcome-to-jekyll</id><content type="html" xml:base="https://thestephencasper.github.io/jekyll/update/2022/02/19/welcome-to-jekyll.html"><![CDATA[<!--<h1>Group Name and Logo</h1>-->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://thestephencasper.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://thestephencasper.github.io/" rel="alternate" type="text/html" /><updated>2024-07-26T11:08:06+02:00</updated><id>https://thestephencasper.github.io/feed.xml</id><title type="html">Algorithmic Alignment Group</title><subtitle>Researching frameworks for human-aligned AI @ MIT CSAIL.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="https://thestephencasper.github.io/jekyll/update/2022/02/20/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-02-20T05:49:21+01:00</published><updated>2022-02-20T05:49:21+01:00</updated><id>https://thestephencasper.github.io/jekyll/update/2022/02/20/welcome-to-jekyll</id><content type="html" xml:base="https://thestephencasper.github.io/jekyll/update/2022/02/20/welcome-to-jekyll.html"><![CDATA[<!--<h1>Group Name and Logo</h1>-->
 
 <!--<head>-->
 <!--    <meta charset="utf-8">-->
@@ -11,7 +11,6 @@
             <li><a href="/"><h3>Home</h3></a></li>
             <li><a href="/team/"><h3>Team</h3></a></li>
             <li><a href="/research/"><h3>Research</h3></a></li>
-            <li><a href="/blog/"><h3>Blog</h3></a></li>
             <li><a href="/contact/"><h3>Contact</h3></a></li>
         </ul>
     </nav>
@@ -35,7 +34,7 @@
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Home Team Research Blog Contact]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://thestephencasper.github.io/jekyll/update/2022/02/19/mechanistic_interpretability_challenges.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-02-19T23:49:21-05:00</published><updated>2022-02-19T23:49:21-05:00</updated><id>https://thestephencasper.github.io/jekyll/update/2022/02/19/mechanistic_interpretability_challenges</id><content type="html" xml:base="https://thestephencasper.github.io/jekyll/update/2022/02/19/mechanistic_interpretability_challenges.html"><![CDATA[<!--<h1>Group Name and Logo</h1>-->
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Home Team Research Contact]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://thestephencasper.github.io/jekyll/update/2022/02/20/mechanistic_interpretability_challenges.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-02-20T05:49:21+01:00</published><updated>2022-02-20T05:49:21+01:00</updated><id>https://thestephencasper.github.io/jekyll/update/2022/02/20/mechanistic_interpretability_challenges</id><content type="html" xml:base="https://thestephencasper.github.io/jekyll/update/2022/02/20/mechanistic_interpretability_challenges.html"><![CDATA[<!--<h1>Group Name and Logo</h1>-->
 
 <!--<head>-->
 <!--    <meta charset="utf-8">-->
@@ -48,7 +47,6 @@
             <li><a href="/"><h3>Home</h3></a></li>
             <li><a href="/team/"><h3>Team</h3></a></li>
             <li><a href="/research/"><h3>Research</h3></a></li>
-            <li><a href="/blog/"><h3>Blog</h3></a></li>
             <li><a href="/contact/"><h3>Contact</h3></a></li>
         </ul>
     </nav>
@@ -58,7 +56,7 @@
 
 <h2 id="plus-more-challenges-on-the-way">…plus more challenges on the way </h2>
 
-<p>Stephen Casper, <a href="mailto:scasper@mit.edu">scasper@mit.edu</a></p>
+<p>Stephen Casper, <a href="mailto:scasper@mit.edu">scasper@mit.edu</a></p>
 
 <p>Spoilers ahead</p>
 
@@ -162,4 +160,149 @@ def label_fn(x, y):
 
 <p>The second challenge will be to, by any means necessary (mechanistic interpretability or not), identify the triggers for four secret trojans using only the ImageNet network with the trojans and the target class. </p>
 
-<p><strong>For updates on this challenge, please</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQiHha4eSJZI6ShawtA-UC4eptGqVZg_DdwfGStEBvu_8vrg/viewform?usp=sf_link"><strong>sign up here</strong></a> <strong>to receive a one-time email announcement later this year.</strong></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Home Team Research Blog Contact]]></summary></entry></feed>
+<p><strong>For updates on this challenge, please</strong> <a href="https://docs.google.com/forms/d/e/1FAIpQLSfQiHha4eSJZI6ShawtA-UC4eptGqVZg_DdwfGStEBvu_8vrg/viewform?usp=sf_link"><strong>sign up here</strong></a> <strong>to receive a one-time email announcement later this year.</strong></p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Home Team Research Contact]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://thestephencasper.github.io/jekyll/update/2022/02/20/seven_strategies.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-02-20T05:49:21+01:00</published><updated>2022-02-20T05:49:21+01:00</updated><id>https://thestephencasper.github.io/jekyll/update/2022/02/20/seven_strategies</id><content type="html" xml:base="https://thestephencasper.github.io/jekyll/update/2022/02/20/seven_strategies.html"><![CDATA[<!--<h1>Group Name and Logo</h1>-->
+
+<!--<head>-->
+<!--    <meta charset="utf-8">-->
+<!--    <link rel="stylesheet" href="_includes/styles.css">-->
+<!--</head>-->
+
+<center>
+    <nav>
+        <ul class="nav__links">
+            <li><a href="/"><h3>Home</h3></a></li>
+            <li><a href="/team/"><h3>Team</h3></a></li>
+            <li><a href="/research/"><h3>Research</h3></a></li>
+            <li><a href="/contact/"><h3>Contact</h3></a></li>
+        </ul>
+    </nav>
+</center>
+
+<h1 id="seven-strategies-for-tackling-the-hard-part-of-the-alignment-problem">Seven Strategies for Tackling the Hard Part of the Alignment Problem</h1>
+
+<p>Stephen Casper, <a href="mailto:scasper@mit.edu">scasper@mit.edu</a></p>
+
+<p><a href="https://www.alignmentforum.org/posts/amBsmfFK4NFDtkHiT/seven-strategies-for-tackling-the-hard-part-of-the-alignment">Crossposted from the AI Alignment Forum</a></p>
+
+<p>Thanks to Michael Ripa for feedback.</p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<ul>
+  <li>There are two types of problems that AI systems can have: problems that we can observe during development and problems that we can’t. The hardest part of the alignment problem involves problems we can’t observe. </li>
+  <li>I outline seven types of solutions for unobservable problems and taxonomize them based on whether they require that we know what failure looks like and how it happens mechanistically. 
+    <ul>
+      <li>Solutions that require both knowing what failure looks like and how it happens
+        <ul>
+          <li>Ambitious mechanistic interpretability</li>
+          <li>Formal verification</li>
+        </ul>
+      </li>
+      <li>Solutions that require knowing what failure looks like
+        <ul>
+          <li>Latent adversarial training</li>
+          <li>Evals</li>
+        </ul>
+      </li>
+      <li>Solutions that require knowing how failure happens
+        <ul>
+          <li>Mechanistic interpretability + heuristic model edits</li>
+        </ul>
+      </li>
+      <li>Solutions that require neither
+        <ul>
+          <li>Anomaly detection</li>
+          <li>Scoping models down</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>I argue that latent adversarial training, mechanistic interpretability + heuristic model edits, and scoping models down all may be highly important, tractable, and neglected and loft out a few ideas for new work. </li>
+</ul>
+
+<h2 id="two-ways-that-ai-systems-can-fail">Two ways that AI systems can fail</h2>
+
+<p>Consider a simple way of dividing AI failures into two groups. </p>
+
+<ol>
+  <li><strong>Observable failures:</strong> Failures that we can encounter in training and development. These include failures on the train set, test set, some types of adversaries, or anything else that we might think to test our AI system on. These can be very bad, but they are problems that we can get feedback on – we can spot them and then work to fix them. </li>
+  <li><strong>Unobservable failures:</strong> Failures that we will <em>not</em> encounter in training and development. These failures are somewhat scarier and harder to address because we will not have feedback to help us solve them. These can include trojans, some adversarial examples, misgeneralization, and deceptive alignment. </li>
+</ol>
+
+<p>Because one cannot get feedback on them, unobservable failures are the harder part of AI alignment, and this is why the AI safety community is especially interested in them. It is important not to ignore the importance and difficulty of fixing observable problems, and there might exist a very valid critique of the AI safety community’s (over)emphasis on unobservable ones. However, this post will focus on unobservable failures. </p>
+
+<p>What are the ways that we can try to tackle unobservable failures? One good way may be to use models and data that are designed to avoid some of these problems in the first place (e.g. use better training data), but this will be outside the scope of this post. Instead, I will focus on ways to remove problems <em>given</em> a model and training set.  </p>
+
+<h2 id="a-taxonomy-of-solutions">A taxonomy of solutions</h2>
+
+<p>Consider two things that might make the process of addressing an unobservable problem in a model very difficult. </p>
+
+<ol>
+  <li><strong>Knowing what failure looks like.</strong> Can we recognize the bad behaviors when we see them? Lots of the time in ML, bad behavior is thought of as something that can be detected from a single output/action. But in reality, badness may be a property of a trajectory and may not be recognizable in simple ways. </li>
+  <li><strong>Knowing how the failure happens.</strong> Can we figure out the internal mechanisms behind failures? This a difficult challenge because neural networks are hard to understand in terms of faithful mechanistic interpretations. </li>
+</ol>
+
+<p>Now consider which approaches to tackling unobservable failures depend on solving each of these two challenges.</p>
+
+<h3 id="hard-approaches-that-require-both-knowing-what-failure-looks-like-and-how-it-happens">(Hard) Approaches that require both knowing what failure looks like and how it happens:</h3>
+
+<ul>
+  <li><strong>Ambitious mechanistic interpretability:</strong> This refers to anything that involves using mechanistic interpretability to actually figure out how the model will do something bad. Once this is done, then the model that will do bad things can be deleted or modified. </li>
+  <li><strong>Formal verification:</strong> This refers to anything involving a proven bound on the probability of failures conditional on a particular set of specifications for using the model. In general, this is hard – the deep learning field struggles to prove practically-useful bounds for model failures. </li>
+</ul>
+
+<h3 id="medium-approaches-that-require-knowing-what-failure-looks-like">(Medium) Approaches that require knowing what failure looks like.</h3>
+
+<ul>
+  <li><strong>Latent adversarial training:</strong> <a href="https://www.alignmentforum.org/posts/atBQ3NHyqnBadrsGP/latent-adversarial-training">Latent adversarial training</a> is an example of <a href="https://www.alignmentforum.org/posts/9Dy5YRaoCxH9zuJqa/relaxed-adversarial-training-for-inner-alignment">relaxed adversarial training</a> in which the model is trained under adversarial perturbations to its internal activations (instead of its inputs). Even if the inputs that trigger model failures are rare, there will likely be a substantial amount of neural circuitry dedicated to many unobservable failures (e.g. trojans, deceptive alignment). As long as bad behavior can be recognized when it happens, this relaxation of the adversarial training process could help to train that bad circuitry out of models without knowing what triggers it or how the network processes the bad response. </li>
+  <li><strong>Evals:</strong> Black-box evals aren’t solutions to unobservable failures in theory. But evals can be informed by <em>white-box</em> analysis, and in reality, we also may be able to get a long way with good methodology and honeypotting.</li>
+</ul>
+
+<h3 id="medium-approaches-that-require-knowing-how-failure-happens">(Medium) Approaches that require knowing how failure happens.</h3>
+
+<ul>
+  <li><strong>Mechanistic interpretability + heuristic model edits:</strong> This refers to identifying model mechanisms or knowledge that seem likely to be involved in failures and then editing the model to address them. </li>
+</ul>
+
+<h3 id="easy-approaches-that-dont-require-either">(Easy) Approaches that don’t require either.</h3>
+
+<ul>
+  <li><strong>Mechanistic anomaly detection:</strong> this could allow us to find and flag examples that could be risky on the basis that the model internally handles them differently than typical inputs. </li>
+  <li><strong>Scoping models down:</strong> If we are worried that we might accidentally be giving our models bad capabilities or intentions that will manifest off the train distribution, we may be able to get rid of many of these liabilities with tools to impair the model’s ability to do anything very coherent off distribution. For example, the model could be compressed or distilled on its own outputs so that it retains in-distribution performance and (not-so-catastrophically) forgets possibly-dangerous behaviors off distribution. </li>
+</ul>
+
+<h2 id="what-does-this-framework-suggest">What does this framework suggest?</h2>
+
+<p>First, I have simply found this taxonomy useful for how I think about the hard part of alignment and the set of strategies we have for addressing it.</p>
+
+<p>Next, I would not be surprised if we lived in a world in which the hard strategies – ambitious mechanistic interpretability and formal verification – just never pan out. I have <a href="https://www.alignmentforum.org/s/a6ne2ve5uturEEQK7">written</a> in the past about how AI interpretability might be unproductive in some ways. This framing might help underscore some of these points. </p>
+
+<p>In particular, I think this taxonomy helps to suggest that latent adversarial training, mechanistic interpretability + heuristic model edits, and scoping models down might be important, tractable, and neglected strategies. None seem to get a lot of current attention among AI safety researchers in deep learning, but all three seem to be tractable and have a high upside. (I’d also group evals and mechanistic anomaly detection in with these, but they seem slightly less neglected at the moment.)</p>
+
+<h3 id="latent-adversarial-training">Latent adversarial training</h3>
+
+<p>I think that it is possible for latent adversarial training to do most of what the mechanistic interpretability field is trying to achieve with less invested effort. The useful thing about latent adversarial training is that if you can solve the oversight problem, training under the <em>right</em> latent perturbations will, at least in theory, make the model robust to unobservable failures. Both of those things are much easier said than done. But ambitious mechanistic interpretability requires both of these plus a precise understanding mechanisms responsible for bad behavior plus using that understanding to address them somehow. It just seems strictly harder. </p>
+
+<p>Right now, I am working with some others at MIT on latent adversarial training in deep learning. We are hoping to use it to improve robustness for high-stakes reliability and to help remove/resist trojan implantation. Some work already exists that involves adversarial perturbations to model latents (e.g. <a href="https://arxiv.org/abs/2104.01575">this paper</a>), but to our knowledge, we are working to be the first to use it for controlling OOD liabilities in deep learning. I think that much more work could be done in the future as well.</p>
+
+<h3 id="mechanistic-interpretability--heuristic-model-edits">Mechanistic Interpretability + Heuristic Model Edits</h3>
+
+<p>Getting rid of knowledge in models that might be risky could be very useful for safety. It might be nice to be able to take a language model and erase its knowledge entirely on some risky domain. For instance, maybe future versions of ChatGPT should have all of their knowledge of biotech erased so that they cannot effectively help to make a bioweapon. How might we go about this?</p>
+
+<p>Recently, there has been <a href="https://arxiv.org/abs/2202.05262">a</a> <a href="https://arxiv.org/abs/2210.07229">lot</a> <a href="https://arxiv.org/pdf/2301.04213.pdf">of</a> <a href="https://scholar.google.com/citations?view_op=view_citation&amp;hl=en&amp;user=dnZ8udEAAAAJ&amp;sortby=pubdate&amp;citation_for_view=dnZ8udEAAAAJ:sSrBHYA8nusC">interest</a> in editing factual associations in models. Prior works have modeled factual knowledge as labeled arrows between concepts, e.g. eiffel tower –&gt; located in –&gt; Paris. Maybe using some strategy based on these tools would work well, and we should find out. But not all types of knowledge seem most easily described as sets of simple, directed relations between entities (e.g. knowledge within a broad domain like biotech). So it may be useful to work on methods to completely erase a model’s knowledge in large domains. Methods like this might be great to add to the alignment toolbox. </p>
+
+<h3 id="scoping-models-down">Scoping Models Down</h3>
+
+<p>This may be an underrated approach to alignment – just making the AI more narrow. Right now, state-of-the-art AI systems are developed under a pretrain-then-finetune paradigm. But it might be valuable from a safety perspective to move to a pretrain-then-finetune-then-scope-down one. </p>
+
+<p>One useful approach for scoping models down could involve using network compression. If a model does something bad off distribution (like executing a precise plot to betray you), the forward passes through it are going to be mechanistically different in some way compared to the passes that are observed during development. Using a mechanistic compression technique to get rid of neural circuitry which is not needed for in-distribution performance might disrupt the ability of the network to make the same computations off distribution. This could incidentally remove much of the circuitry involved in some types of OOD failures without ever needing to identify those failures in the first place. </p>
+
+<p>Network pruning has been <a href="https://arxiv.org/abs/2103.03014">observed</a> to harm OOD performance before, and from a safety standpoint, this may be a feature – not a bug. Right now could be a good time to work on scoping models down for alignment via compression because of recent interest in causal compression methods (like <a href="https://www.alignmentforum.org/posts/JvZhhzycHu2Yd57RN/causal-scrubbing-a-method-for-rigorously-testing">causal scrubbing</a> or <a href="https://arxiv.org/abs/2304.14997">ACDC</a>). These methods are being used for mechanistic anomaly detection and automating “interpretations” of networks, but we might be able to get a long way with just the compressed networks themselves.</p>
+
+<p>Another approach for scoping models down could be inspired by the <a href="https://arxiv.org/abs/1909.08383">continual learning</a> literature which aims to make models better at learning new tasks without forgetting old ones. If we want to scope a model down, the whole point will be to make it forget previously learned information that isn’t related to the in-distribution data we supervisedly finetune it on. In this case, <a href="https://arxiv.org/abs/2306.00427">continued training</a>, <a href="https://arxiv.org/abs/2211.12044?fbclid=IwAR1Qupu_GUsQDmdK2o7YAMQWrkUv38n5Kxff9w_9FyIQpK1iU6dIGLb9UhE">several</a> <a href="https://arxiv.org/abs/2306.00427">approaches</a> <a href="https://arxiv.org/abs/2303.10594?fbclid=IwAR0_XiZiSSM5BElLcCahEczDbody9ndLZLW2ELDOvytqQSmO0F6ifN39zPQ">using</a> <a href="https://arxiv.org/abs/2101.05930?fbclid=IwAR1IsetxvmzV6qze9411LK08CDt9mxC47_K9_eAezjVXnDq5N9xTJ2lmFkY">distillation</a>, <a href="https://arxiv.org/abs/1805.09092">excitation dropout</a>, and <a href="https://arxiv.org/abs/2212.04687?fbclid=IwAR0dol7NBf8_Kej9eLc19lkMr4CoIlYXfp3h2X11GE6pafgyW5SPKENGC68">unlearning followed by re-learning</a> seem promising. However, there seems to be more work needed to develop methods and benchmark them. I think that one promising idea could also be to test how useful taking <a href="https://arxiv.org/abs/1909.08383">existing continual learning techniques</a> and doing the opposite could encourage the type of plasticity/forgetting that would help to scope models down. Trojan removal seems like a promising testbed for this type of work. </p>
+
+<h2 id="paying-the-alignment-tax">Paying the Alignment Tax</h2>
+
+<p>When I have talked to people about some of these approaches, they sometimes bring up the concern that this might make the models bad and less competitive. But that’s kind of the point. AI safety is much more about a lack of certain capabilities than having certain capabilities. Any aligned model is going to be worse in some way than the easier, misaligned alternative. That’s just the alignment tax. For example, adversarial training and content filters make models worse too, and we tolerate that ChatGPT is often stubbornly unhelpful. It’s just the price to pay.</p>
+
+<p>Let me know if you are interested in working on any of these ideas :)</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Home Team Research Contact]]></summary></entry></feed>
