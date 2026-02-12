@@ -10,11 +10,33 @@ permalink: /research/
 Find us on [Github](https://github.com/Algorithmic-Alignment-Lab).
 
 
+### 2025
+
+#### Papers
+
+Kamachee, M., Casper, S., Ding, M. L., Yew, R. J., Reuel, A., Biderman, S., & Hadfield-Menell, D. (2025). [Video Deepfake Abuse: How Company Choices Predictably Shape Misuse Patterns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5829303). Available at SSRN 5829303. [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:us_0VW0WC8AJ:scholar.google.com/&output=citation&scisdr=Crx80d6bEPGDlIUmAOs:ALhkC2QAAAAAaTkgGOtPK2xO7KuoMfRg3rwGUHM&scisig=ALhkC2QAAAAAaTkgGFBrhb7IsDwdC5KJcDAu6bQ&scisf=4&ct=citation&cd=-1&hl=en)
+
+Casper, S., O'Brien, K., Longpre, S., Seger, E., Klyman, K., Bommasani, R., ... & Hadfield-Menell, D. (2025). [Open Technical Problems in Open-Weight AI Model Risk Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5705186). [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:h23NlqYz4xcJ:scholar.google.com/&output=citation&scisdr=ChWzZIibEPGDlKFaX30:ABGrvjIAAAAAaR1cR33qi1B_F_ZXEg-DTbtElAI&scisig=ABGrvjIAAAAAaR1cR5ret-JEHeHJgUFX7sOHrCY&scisf=4&ct=citation&cd=-1&hl=en)
+
+Ma, R., Qu, J., Bobu, A., & Hadfield-Menell, D. (2025). [Open-Universe Assistance Games](https://arxiv.org/abs/2508.15119). arXiv preprint arXiv:2508.15119. [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:vEDsh8BHoAMJ:scholar.google.com/&output=citation&scisdr=CgJX6PKQEPGDlW8j-X0:AAZF9b8AAAAAaNMl4X0HXfHc4HzkhtnTrAd0Fo4&scisig=AAZF9b8AAAAAaNMl4fQG0OwgUseVD6T9uCcjCYs&scisf=4&ct=citation&cd=-1&hl=en)
+
+Khan, A., Casper, S., & Hadfield-Menell, D. (2025). [Randomness, Not Representation: The Unreliability of Evaluating Cultural Alignment in LLMs](https://arxiv.org/abs/2503.08688). arXiv preprint arXiv:2503.08688. [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:qNyn9_gE30YJ:scholar.google.com/&output=citation&scisdr=ClE5Oj05EJ7jn2DoDEI:AFWwaeYAAAAAZ9buFEIyvzHzSAy_sR2CIpyuszI&scisig=AFWwaeYAAAAAZ9buFOqbPR1UWvTjYuVQwm2n09s&scisf=4&ct=citation&cd=-1&hl=en)
+
+Slocum, S., Parker-Sartori, A., & Hadfield-Menell, D. [Diverse Preference Learning for Capabilities and Alignment](https://openreview.net/forum?id=pOq9vDIYev). In The Thirteenth International Conference on Learning Representations. [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:r0oj84jNTPIJ:scholar.google.com/&output=citation&scisdr=ClEjZVUeEPGDmmn1ZiI:AFWwaeYAAAAAZ9XzfiIpoX0Mb74XoDKUqqFLm9w&scisig=AFWwaeYAAAAAZ9Xzfotf2iWx_55GlcfTcckiDrk&scisf=4&ct=citation&cd=-1&hl=en)
+
+Casper, S., Krueger, D., & Hadfield-Menell, D. (2025). [Pitfalls of Evidence-Based AI Policy](https://arxiv.org/abs/2502.09618). arXiv preprint arXiv:2502.09618. [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:2xk3mpayCh4J:scholar.google.com/&output=citation&scisdr=ClEjZVUeEPGDmmm13hI:AFWwaeYAAAAAZ9WzxhLLivm2V-jkY-sBDkU--vM&scisig=AFWwaeYAAAAAZ9WzxuMS2kpzS8OGZUCeee9lNNE&scisf=4&ct=citation&cd=-1&hl=en)
+
+Che, Z., Casper, S., Kirk, R., Satheesh, A., Slocum, S., McKinney, L. E., ... & Hadfield-Menell, D. (2025). [Model Tampering Attacks Enable More Rigorous Evaluations of LLM Capabilities](https://arxiv.org/abs/2502.05209). arXiv preprint arXiv:2502.05209. [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:yyB8rD9KA8MJ:scholar.google.com/&output=citation&scisdr=ClEjZVUeEPGDmmm1lww:AFWwaeYAAAAAZ9WzjwwDT4Ci2HnNIHuyb3P0KGs&scisig=AFWwaeYAAAAAZ9WzjxurmBAVZExFfZCmMOXODRo&scisf=4&ct=citation&cd=-1&hl=en)
+
+Casper, S., Bailey, L., Hunter, R., Ezell, C., Cabalé, E., Gerovitch, M., ... & Kolt, N. (2025). [The AI Agent Index](https://arxiv.org/abs/2502.01635). arXiv preprint arXiv:2502.01635. [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:WQenAMCvRq4J:scholar.google.com/&output=citation&scisdr=ClEjZVUeEPGDmmm1Q-Y:AFWwaeYAAAAAZ9WzW-ZSw0M3BmSbztro1mPGMcw&scisig=AFWwaeYAAAAAZ9WzWzMJ4ODvWiWX5SMVEOwLZxA&scisf=4&ct=citation&cd=-1&hl=en)
+
 ### 2024
 
 #### Papers
 
-Sheshadri, A., Ewart, A., Guo, P., Lynch, A., Wu, C., Hebbar, V., Sleight, H., Cooper Stickland A., Perez, E., Hadfield-Menell, D., & Casper, S. (2024). [Targeted Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs.]() arXiv preprint arXiv:2407.15549.[BibTeX](https://arxiv.org/abs/2407.15549)
+Ma, R., Qu, J., Bobu, A., & Hadfield-Menell, D. (2024). [Goal inference from open-ended dialog](https://arxiv.org/abs/2410.13957). arXiv preprint arXiv:2410.13957 [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:zrsUOCDVDBsJ:scholar.google.com/&output=citation&scisdr=ClEjZVUeEPGDmmm1EPg:AFWwaeYAAAAAZ9WzCPg_h-p_iuE--ebJm_ZQZhg&scisig=AFWwaeYAAAAAZ9WzCGiy2TIk68aMf0LJ3mX-lWs&scisf=4&ct=citation&cd=-1&hl=en)
+
+Sheshadri, A., Ewart, A., Guo, P., Lynch, A., Wu, C., Hebbar, V., Sleight, H., Cooper Stickland A., Perez, E., Hadfield-Menell, D., & Casper, S. (2024). [Latent Adversarial Training Improves Robustness to Persistent Harmful Behaviors in LLMs.]() arXiv preprint arXiv:2407.15549. [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:LG1lbmbF8Q8J:scholar.google.com/&output=citation&scisdr=ClEjZVUeEPGDmmm1LpU:AFWwaeYAAAAAZ9WzNpVSU_ov0aajiIDueIoE9iA&scisig=AFWwaeYAAAAAZ9WzNohrivpjdGKbIDboQHAJZtQ&scisf=4&ct=citation&cd=-1&hl=en)
 
 Casper, S., Yun, J., Baek, J., Jung, Y., Kim, M., Kwon, K., ... & Hadfield-Menell, D. (2024). [The SaTML'24 CNN Interpretability Competition: New Innovations for Concept-Level Interpretability.](https://arxiv.org/abs/2404.02949) arXiv preprint arXiv:2404.02949. [BibTeX](https://scholar.googleusercontent.com/scholar.bib?q=info:x4JPMDBv3TgJ:scholar.google.com/&output=citation&scisdr=ClGidL9yEIaMg7yzD8o:AFWwaeYAAAAAZhK1F8rTj_IS5eT03h-duUYWftU&scisig=AFWwaeYAAAAAZhK1F3X_AdsFRCzxa2qeqTA7oco&scisf=4&ct=citation&cd=-1&hl=en)
 

@@ -5,28 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7fdf1984-518c-47b6-9008-8065eef063f7" name="Changes" comment="misc">
-      <change afterPath="$PROJECT_DIR$/_posts/2023-07-08-seven_strategies.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/claude.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_includes/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/team.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2023-06-08-mechanistic_interpretability_challenges.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2023-06-08-mechanistic_interpretability_challenges.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/assets/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/css/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/blog/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/contact/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/contact/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/assets/cas.png" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/assets/cas.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2022/02/19/welcome-to-jekyll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2022/02/20/mechanistic_interpretability_challenges.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2022/02/20/seven_strategies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/jekyll/update/2022/02/20/welcome-to-jekyll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_site/notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/research/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/research/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/team/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/team/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/blog.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/contact.markdown" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/assets/cas.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/assets/cas.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/index.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/notes.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/research.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/research.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +49,8 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/scasper/projects/Algorithmic-Alignment-Lab.github.io/_posts&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/scasper/projects/Algorithmic-Alignment-Lab.github.io&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -75,8 +71,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
-        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.22855.92" />
+        <option value="bundled-python-sdk-b068d85d1acf-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.22855.92" />
       </set>
     </attachedChunks>
   </component>
@@ -181,6 +177,25 @@
       <workItem from="1720545867742" duration="448000" />
       <workItem from="1721984658341" duration="462000" />
       <workItem from="1722290537274" duration="362000" />
+      <workItem from="1727028354144" duration="115000" />
+      <workItem from="1727322177624" duration="747000" />
+      <workItem from="1727366200020" duration="1000" />
+      <workItem from="1727382300307" duration="1659000" />
+      <workItem from="1727829375634" duration="59000" />
+      <workItem from="1727898221539" duration="3000" />
+      <workItem from="1728686543467" duration="274000" />
+      <workItem from="1729715203924" duration="313000" />
+      <workItem from="1730000191600" duration="23000" />
+      <workItem from="1742057596957" duration="382000" />
+      <workItem from="1742059926381" duration="315000" />
+      <workItem from="1742063466120" duration="21000" />
+      <workItem from="1742074109094" duration="111000" />
+      <workItem from="1742138368799" duration="227000" />
+      <workItem from="1742138786374" duration="91000" />
+      <workItem from="1758667565671" duration="640000" />
+      <workItem from="1763531236029" duration="628000" />
+      <workItem from="1765350829663" duration="842000" />
+      <workItem from="1770927766449" duration="1096000" />
     </task>
     <task id="LOCAL-00001" summary="misc">
       <created>1679375735742</created>
