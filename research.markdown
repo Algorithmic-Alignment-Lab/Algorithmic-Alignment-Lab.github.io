@@ -9,14 +9,6 @@ permalink: /research/
 
 Find us on [Github](https://github.com/Algorithmic-Alignment-Lab).
 
-### 2026
-
-#### Papers
-Ma, R., Qu, J., Bobu, A., & Hadfield-Menell, D. (Updated 2026). [Flexible Agent Alignment with Goal Inference from Open-Ended Dialog](https://arxiv.org/abs/2508.15119) arXiv preprint arXiv:2508.15119.
-
-Ma, R., Hadfield-Menell, D., Greenewald, K. (2026). [Distributional Process Reward Models: Calibrated Prediction of Future Rewards via Conditional Optimal Transport](https://arxiv.org/abs/2605.06785) arXiv preprint arXiv:2605.06785.
-
-
 ### 2025
 
 #### Papers
