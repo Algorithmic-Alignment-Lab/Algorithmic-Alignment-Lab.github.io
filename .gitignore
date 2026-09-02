@@ -1,0 +1,16 @@
+# Jekyll build output
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Editor / OS cruft
+.idea/
+.DS_Store
+
+# Ruby
+vendor/bundle/
+.bundle/
+
+# Python
+venv/
+.venv/

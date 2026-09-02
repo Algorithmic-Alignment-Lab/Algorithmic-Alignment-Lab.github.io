@@ -23,7 +23,7 @@ email: thestephencasper@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Researching frameworks for human-aligned AI @ MIT CSAIL.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://thestephencasper.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://algorithmicalignment.csail.mit.edu" # canonical site; used for absolute URLs in feed.xml, canonical tags, etc.
 twitter_username: slcasper
 github_username: thestephencasper
 
@@ -58,3 +58,18 @@ sass:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Keep internal / repo-only files out of the built site.
+# Files without YAML front matter are otherwise copied verbatim into _site
+# and served publicly.
+exclude:
+  - deploy.sh
+  - claude.md
+  - CLAUDE.md
+  - README
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - venv/
+  - vendor/
