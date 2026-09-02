@@ -14,7 +14,11 @@ set -euo pipefail
 
 REMOTE_USER="${CSAIL_USER:-dhm}"
 REMOTE_HOST="${CSAIL_HOST:-align-3.csail.mit.edu}"
-REMOTE_DIR="/afs/csail/group/ei/www"
+# Override with: CSAIL_WWW=/some/other/path ./deploy.sh
+# NOTE the historical deploy was `scp -r ./_site <host>:/afs/csail/group/ei/www/`,
+# which (no trailing slash) creates a `_site` SUBDIRECTORY. Confirm where the live
+# site is actually served from before changing this.
+REMOTE_DIR="${CSAIL_WWW:-/afs/csail/group/ei/www/_site}"
 SITE_URL="https://algorithmicalignment.csail.mit.edu/"
 
 cd "$(dirname "$0")"
@@ -74,6 +78,28 @@ ssh "${SSH_OPTS[@]}" "${REMOTE_USER}@${REMOTE_HOST}" \
 
 cleanup() { ssh "${SSH_OPTS[@]}" -O exit "${REMOTE_USER}@${REMOTE_HOST}" 2>/dev/null || true; }
 trap cleanup EXIT
+
+# --- 3b. Confirm we are updating THIS site, not some other one --------------
+# The target must already look like a previous deploy of this site. Without this
+# check a wrong REMOTE_DIR silently dumps 63 files into someone else's web root.
+say "Verifying target is this site"
+if ssh "${SSH_OPTS[@]}" "${REMOTE_USER}@${REMOTE_HOST}" \
+     "test -f '$REMOTE_DIR/team/index.html' && grep -q 'Algorithmic Alignment' '$REMOTE_DIR/index.html'" 2>/dev/null; then
+  echo "OK: $REMOTE_DIR holds an existing deploy of this site"
+else
+  cat >&2 <<ERR
+
+ERROR: $REMOTE_DIR does not look like this site.
+Expected team/index.html and an index.html mentioning "Algorithmic Alignment".
+
+Deploying anyway could overwrite an unrelated site. Find the real docroot first:
+
+  ssh ${REMOTE_USER}@${REMOTE_HOST} 'ls /afs/csail/group/ei/www/ /afs/csail/group/ei/www/_site/ 2>&1 | head -40'
+
+then re-run with:  CSAIL_WWW=<correct/path> $0 ${1:-}
+ERR
+  exit 1
+fi
 
 # --- 4. Sync (additive — NO --delete) ---------------------------------------
 if [[ $APPLY -eq 1 ]]; then

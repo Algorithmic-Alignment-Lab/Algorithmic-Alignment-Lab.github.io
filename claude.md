@@ -42,11 +42,17 @@ Run the deploy script from the repo root:
 It gets a Kerberos ticket if needed, builds the site, syncs it, removes known stale
 files, and checks the live URLs afterwards. Duo will prompt once.
 
-**Do not run `rsync --delete` against this target.** `/afs/csail/group/ei/www/` is the
-*shared* web root for the `ei` group and contains other sites (notably the `ei/`
-subtree) that this repo does not produce; `--delete` would erase them. The sync is
-deliberately additive, so any file this site stops publishing must be deleted by name -
-see the `STALE` list in `deploy.sh`.
+**The docroot is `/afs/csail/group/ei/www/_site`** - note the `_site` suffix. The
+original deploy used `scp -r ./_site <host>:/afs/csail/group/ei/www/`, and with no
+trailing slash that copied the *directory* in, so the served files live one level
+deeper than the path in the old notes suggests.
+
+**Never run `rsync --delete` against the parent `/afs/csail/group/ei/www/`.** It is the
+shared `ei`-group web root and also contains `data/` and `ei/`, which this repo does not
+produce; `--delete` there would erase them. `deploy.sh` is additive and never uses
+`--delete`, so any file this site stops publishing must be removed by name - see the
+`STALE` list in the script. It also refuses to run unless the target already looks like
+a previous deploy of this site.
 
 Use **align-3**: as of Sept 2026 `align-1` resolves but does not answer on port 22.
 SSH there needs two factors (Kerberos, then Duo via keyboard-interactive), so deploys
